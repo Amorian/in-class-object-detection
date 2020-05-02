@@ -1,0 +1,12 @@
+name: image_recognition
+channels:
+  - anaconda
+  - conda-forge
+  - pytorch
+dependencies:
+  - pip
+  - python
+  - pillow
+  - pytorch
+  - torchvision
+  - pycocotools

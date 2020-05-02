@@ -1,0 +1,38 @@
+<annotation>
+  <folder>Images</folder>
+  <filename>IMG_0098</filename>
+  <path>D:\NYU\CML\Image Recognition\Training\Dataset\Images\IMG_0098.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>4032</width>
+    <height>3024</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>laptop</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1338</xmin>
+      <ymin>1893</ymin>
+      <xmax>2223</xmax>
+      <ymax>2466</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>empty chair</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1</xmin>
+      <ymin>2078</ymin>
+      <xmax>593</xmax>
+      <ymax>3020</ymax>
+    </bndbox>
+  </object>
+</annotation>
